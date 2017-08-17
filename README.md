@@ -9,10 +9,10 @@ This is a game called Upstream. The basic game concept is about a frog jumping u
 # Team Upstream
 * [Team Members](#team-members)
 # <a name="team-members"></a>Team Members
-* "Quy "
-* "Jonathan "
-* "John "
-* "Kevin "
+* "Quy Nguyen"
+* "Jonathan Dinh"
+* "John Hargreaves"
+* "Kevin Jenkin"
 
 ## Installation / running the code
 * [Required files](#requirements)
